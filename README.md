@@ -25,7 +25,7 @@
 
 1.  **Clone repository:**
     ```sh
-    git clone <URL_CUA_REPOSITORY>
+    git clone https://github.com/ngoquocanh15012004/Music-Window-Application.git
     ```
 2.  **Mở dự án:**
     Mở tệp `Music Application.sln` bằng Visual Studio.
